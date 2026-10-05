@@ -1,0 +1,21 @@
+{
+  "name": "linachat",
+  "version": "1.0.0",
+  "description": "Linachat - Friendly, Intelligent Tamil & Tanglish Conversational AI Assistant",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "linachat",
+    "ai",
+    "chatbot",
+    "ollama",
+    "tamil",
+    "tanglish"
+  ],
+  "author": "Linachat",
+  "license": "MIT"
+}
